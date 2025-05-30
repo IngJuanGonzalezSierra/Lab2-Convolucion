@@ -19,8 +19,7 @@ En el análisis de señales y sistemas, operaciones como la convolución, correl
 - **x[n]** (entrada): formada por los dígitos de la cédula `1000178815` →  
   `x = [1, 0, 0, 0, 1, 7, 8, 8, 1, 5]`
 - **h[n]** (respuesta del sistema): formada por los dígitos del código `5600333` →  
-  `h = [5, 6, 0, 0, 3, 3, 3]`
-
+  `h = [5, 6, 0, 0, 3, 3, 3]
 #### Cálculo manual
 Se aplica la definición de convolución discreta:  
 $$ y[n] = \sum_{k=0}^{N} x[k] \cdot h[n-k] $$
@@ -43,3 +42,5 @@ plt.xlabel("n")
 plt.ylabel("y[n]")
 plt.grid(True)
 plt.show()
+![Image](https://github.com/user-attachments/assets/c691dd04-4326-4fdc-92f3-91b142393ceb)vvvvvvvvvvvvvv
+
