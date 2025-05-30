@@ -3,7 +3,7 @@
 **Cédula:** 1000178815  
 **Código estudiante:** 5600333  
 # Introducción
-## INTRODUCCIÓN  
+
 
 En el análisis de señales y sistemas, operaciones como la convolución, correlación y transformadas son esenciales para entender cómo interactúan las señales con los sistemas que las procesan.  
 - **Convolución**: usada para determinar la salida de un sistema LTI ante una entrada dada.  
